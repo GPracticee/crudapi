@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.signup{
+    margin: auto;
+    width: 65%;
+}
+.container{
+    border-radius: 7px;
+    box-shadow: 2px 1px 2px 1px;
+    padding: 10px;
+    margin: auto;
+    width: 60%;
+    justify-content: center;
+}
+.signup-content{
+    width: 80%;
+    margin: auto;
+    /* display:inline-block; */
+}
+.signup-form{
+    margin: auto;
+    width: 50%;
+    display:inline-block;
+    position: relative;
+}
+.img{
+    margin: auto;
+    width: 45%;
+    display:inline-block;
+}
+.img1{
+    width: 60vh;
+    margin: auto ;
+    position: absolute;
+    top: 140px;
+}
+.limg{
+    margin: auto;
+    width: 45%;
+    display:inline-block;
+}
+.limg1{
+    width: 30vh;
+    margin: auto ;
+    position: absolute;
+    top: 160px;
+    right: 420px;
+}
+.side{
+   text-align: right;
+}
+.gtf{
+    text-align: right;
+    padding: 35px 25px 35px 45px;
+}
+
